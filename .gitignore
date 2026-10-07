@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# configuración local del entorno de desarrollo
+.claude/
+
+# fotos originales sin comprimir: la web no las usa
+_originales/
+
+node_modules/
