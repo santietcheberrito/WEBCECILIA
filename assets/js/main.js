@@ -28,7 +28,8 @@ const MENSAJES = {
 const FOTOS = {
   hero:     null,   // pradera del comienzo. La foto 'hero.jpg' está guardada acá al lado:
                     // poné  hero: 'hero.jpg'  para usarla en vez de la ilustración.
-  retrato:  'retrato.jpg',   // foto de Cecilia (vertical 3:4; hoy 480 × 640)
+  retrato:  'retrato.jpg',   // Cecilia en "Sobre mí" de la portada (vertical 3:4)
+  'retrato-formacion': 'retrato-mar.jpg',   // Cecilia en "Mi formación" (vertical 3:4)
   sesion:    null,  // tarjeta de Sesión 1 a 1 (horizontal, 1600 × 900)
   circulo:   null,  // tarjeta del Círculo de Mujeres (horizontal, 1600 × 900)
   programas: null,  // tarjeta de los programas Volver a Vos (horizontal, 1600 × 900)

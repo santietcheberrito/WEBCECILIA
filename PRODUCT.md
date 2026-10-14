@@ -34,7 +34,7 @@ Biodecodificación entendida como acompañamiento de procesos, no como técnica 
 - Idioma único: español rioplatense (voseo).
 - CTA único y global: WhatsApp al +54 9 11 3674 0941 (`wa.me/5491136740941`) con mensaje pre-escrito. No hay formulario, no hay email público.
 - Instagram: https://www.instagram.com/ceciliaesposito2/
-- Una sola fotografía real: el retrato de Cecilia (`assets/img/retrato.jpg`, recortado de un original de 640 × 640 en `_originales/`). Todo lo demás se resuelve con arte propio o queda como slot explícito y reemplazable desde un único lugar.
+- Dos fotografías reales de Cecilia: `assets/img/retrato.jpg` (bajo un lapacho en flor, en "Sobre mí" de la portada) y `assets/img/retrato-mar.jpg` (frente al mar, en "Mi formación"). Originales en `_originales/`. Todo lo demás se resuelve con arte propio o queda como slot explícito y reemplazable desde un único lugar.
 - Mobile-first: la mayoría del tráfico llega desde Instagram en celular.
 - Fechas, precios, cupos y duraciones: **no confirmados**. No deben inventarse ni insinuarse.
 
@@ -58,7 +58,7 @@ Biodecodificación entendida como acompañamiento de procesos, no como técnica 
 
 - Copy provisto por la profesional: dos frases de identidad, el bloque "Mi Mirada", la descripción de Modalidad y el listado de círculos, programas y retiros.
 - Referencias visuales aportadas por el cliente: shot "Holistic Healing Website" de Dribbble y la categoría mindful-wellness web design.
-- **Retrato de Cecilia**: foto real al aire libre, frente al mar con montañas nevadas detrás. No se sabe dónde fue tomada; no nombrar el lugar.
+- **Retratos de Cecilia**: uno en una vereda arbolada bajo un lapacho en flor; otro al aire libre, frente al mar con montañas nevadas detrás. No se sabe dónde fue tomada; no nombrar el lugar.
 - **Formación (confirmada por la clienta, octubre 2026)**: Sanación energética, Escuela de Barbara Brennan · Biodecodificación, Humano Puente · 5 Leyes Biológicas, Bodhi Medicine · Respiración y Trauma, Heart Breath Method · Escritura psicosomática, Sofía Villalonga · Grupo de mujeres con «Mujeres que corren con los lobos», Fundación Creavida (lo integró durante 20 años: es la experiencia que más peso tiene y va primero en su tramo) · Eutonía y mindfulness · Bioenergética (cursando). Sin años ni orden cronológico: no se inventan.
 - **No existen**: testimonios, cantidad de personas acompañadas, años de experiencia, precios, fechas, sedes, otras fotografías ni logotipo. Nada de esto puede fabricarse ni sugerirse como si existiera.
 
