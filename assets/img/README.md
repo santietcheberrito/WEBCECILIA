@@ -18,8 +18,7 @@ Medidas sugeridas (JPG, calidad 80, menos de 400 kB cada una):
 | clave       | dónde va                           | formato    | medida      |
 |-------------|------------------------------------|------------|-------------|
 | `hero`      | pantalla de inicio *(opcional)*    | horizontal | 1800 × 1005 |
-| `retrato`   | "Sobre mí" **(puesta)**            | vertical   | 1200 × 1600 |
-| `retrato-formacion` | "Mi formación" **(puesta: retrato-mar.jpg)** | vertical | 1200 × 1600 |
+| `retrato`   | "Sobre mí" y "Mi formación" **(puesta)** | vertical   | 1200 × 1600 |
 | `sesion`    | tarjeta "Sesión 1 a 1"             | horizontal | 1600 × 900  |
 | `circulo`   | tarjeta "Círculo de Mujeres"       | horizontal | 1600 × 900  |
 | `programas` | tarjeta "Volver a Vos"             | horizontal | 1600 × 900  |

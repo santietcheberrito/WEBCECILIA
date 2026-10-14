@@ -34,7 +34,7 @@ Biodecodificación entendida como acompañamiento de procesos, no como técnica 
 - Idioma único: español rioplatense (voseo).
 - CTA único y global: WhatsApp al +54 9 11 3674 0941 (`wa.me/5491136740941`) con mensaje pre-escrito. No hay formulario, no hay email público.
 - Instagram: https://www.instagram.com/ceciliaesposito2/
-- Dos fotografías reales de Cecilia: `assets/img/retrato.jpg` (bajo un lapacho en flor, en "Sobre mí" de la portada) y `assets/img/retrato-mar.jpg` (frente al mar, en "Mi formación"). Originales en `_originales/`. Todo lo demás se resuelve con arte propio o queda como slot explícito y reemplazable desde un único lugar.
+- Dos fotografías reales de Cecilia: `assets/img/retrato.jpg` (bajo un lapacho en flor, usada en "Sobre mí" y en "Mi formación") y `assets/img/retrato-mar.jpg` (frente al mar, guardada sin usar). Originales en `_originales/`. Todo lo demás se resuelve con arte propio o queda como slot explícito y reemplazable desde un único lugar.
 - Mobile-first: la mayoría del tráfico llega desde Instagram en celular.
 - Fechas, precios, cupos y duraciones: **no confirmados**. No deben inventarse ni insinuarse.
 
